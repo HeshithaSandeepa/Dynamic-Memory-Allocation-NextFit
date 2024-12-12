@@ -1,8 +1,8 @@
-#Next-Fit Memory Allocation
+# Next-Fit Memory Allocation
 
 This project demonstrates the Next-Fit memory allocation algorithm using Java. The Next-Fit algorithm is a variation of the First-Fit algorithm, designed to allocate memory blocks to processes efficiently.
 
-##Features
+## Features
 
 Dynamic Memory Management: Allocate and deallocate memory blocks using the Next-Fit approach.
 
@@ -39,7 +39,7 @@ Adding memory blocks.
 Allocating memory to processes.
 Viewing the current memory status.
 
-##HOW TO RUN
+## HOW TO RUN
 1.Download the project folder
 
 2.Use intelliJ IDEA 2021.1
